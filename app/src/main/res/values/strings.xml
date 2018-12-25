@@ -2,4 +2,6 @@
     <string name="app_name">Platzigram</string>
     <string name="title_activity_referencia">ReferenciaActivity</string>
     <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Iniciar Sesión</string>
 </resources>
